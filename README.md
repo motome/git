@@ -19,3 +19,5 @@ git commit をする(コミットメッセージは自由)
 topic-A
 
 topic-B
+
+topic-C
