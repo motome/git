@@ -17,3 +17,5 @@ git commit をする(コミットメッセージは自由)
 さらに追加3回目
 
 topic-A
+
+topic-B
